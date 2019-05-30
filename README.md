@@ -1,16 +1,14 @@
-# collection_animation
+# Flutter Animation Collection
 
-A new Flutter project.
+A collection of animations that i have made using flutter :)
 
 ## Getting Started
+inside the `lib` folder you will find some dart files, you can copy the file content to see the animation, there are now 4 files with the main file.
 
-This project is a starting point for a Flutter application.
+each file can be a root widget for the app (i made it in the main file then i just copied it to nother file), most likly the animation will be applied in the first page of the app, so it would be easier for you to use it.
 
-A few resources to get you started if this is your first Flutter project:
+## Contribution 
+feel free to contribute, to add somthing or to use this app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
